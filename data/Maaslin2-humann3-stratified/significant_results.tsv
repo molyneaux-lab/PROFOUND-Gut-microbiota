@@ -1,0 +1,14 @@
+feature	metadata	value	coef	stderr	N	N.not.0	pval	qval
+PWY.4041...gamma..glutamyl.cycle.g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	3.84095781438607	0.927198576339814	19	16	0.000681106173329976	0.151038985011763
+PWY.7977..L.methionine.biosynthesis.IV.g__Odoribacter.s__Odoribacter_splanchnicus	Diagnosis	IPF	-2.17324866483215	0.517480865539256	19	12	0.000602052325593994	0.151038985011763
+PWY.822..fructan.biosynthesis.g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	3.5118360503686	0.785599758591668	19	15	0.000336495455361062	0.151038985011763
+PWY0.1297..superpathway.of.purine.deoxyribonucleosides.degradation.g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	4.03322667333624	0.99219485827894	19	16	0.000805541253396072	0.151038985011763
+PWY.5981..CDP.diacylglycerol.biosynthesis.III.g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	3.59355054565002	0.927077787093121	19	17	0.0012126955854797	0.16211737842238
+PWY.6936..seleno.amino.acid.biosynthesis..plants..g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	3.42443270972708	0.917225686986269	19	16	0.00165321768143624	0.16211737842238
+PWY.702..L.methionine.biosynthesis.II.g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	3.20024305560029	0.874738372324818	19	17	0.00194540854106856	0.16211737842238
+PWY.I9..L.cysteine.biosynthesis.VI..from.L.methionine..g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	3.37680770206293	0.886089023914209	19	16	0.00139734720824614	0.16211737842238
+PWY66.409..superpathway.of.purine.nucleotide.salvage.g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	2.95794323898069	0.798969198937018	19	15	0.00176936377521742	0.16211737842238
+PWY.2941..L.lysine.biosynthesis.II.g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	2.75989287473977	0.786364194864014	19	15	0.00268700677420218	0.183205007331967
+PWY.7234..inosine.5..phosphate.biosynthesis.III.g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	3.76459892363673	1.07040418613937	19	18	0.00264480478068309	0.183205007331967
+UDPNAGSYN.PWY..UDP.N.acetyl.D.glucosamine.biosynthesis.I.g__Streptococcus.s__Streptococcus_salivarius	Diagnosis	IPF	2.72287878576992	0.7942621771566	19	14	0.00320605532463216	0.20037845778951
+P125.PWY..superpathway.of..R.R..butanediol.biosynthesis.g__Streptococcus.s__Streptococcus_parasanguinis	Diagnosis	IPF	2.61663043187141	0.791989721468919	19	13	0.00419490966667887	0.242014019231473
